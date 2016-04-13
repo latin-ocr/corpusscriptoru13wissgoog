@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./corpusscriptoru13wissgoog_0011.png"; bbox 0 0 2934 4934; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 390 1803 1037 1918">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 390 1803 1037 1918">
+     <span class='ocr_line' id='line_1_1' title="bbox 390 1803 1037 1918; baseline 0.002 -3"><span class='ocrx_word' id='word_1_1' title='bbox 390 1803 754 1916; x_wconf 81' lang='lat' dir='ltr'><strong>HERMANNO·</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 802 1805 1037 1918; x_wconf 82' lang='lat' dir='ltr'><strong>BONITZ·</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 318 2025 1114 2094">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 318 2025 1114 2094">
+     <span class='ocr_line' id='line_1_2' title="bbox 318 2025 1114 2094; baseline 0.001 -13"><span class='ocrx_word' id='word_1_3' title='bbox 318 2025 537 2082; x_wconf 78' lang='lat' dir='ltr'>PROFESSORI</span> <span class='ocrx_word' id='word_1_4' title='bbox 563 2026 740 2094; x_wconf 79' lang='lat' dir='ltr'><strong>QVONDAM</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 766 2027 832 2082; x_wconf 83' lang='lat' dir='ltr'><strong>SVO</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 861 2027 1114 2082; x_wconf 78' lang='lat' dir='ltr'><strong>DILEOTISSIMO</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 607 2213 825 2310">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 607 2213 825 2310">
+     <span class='ocr_line' id='line_1_3' title="bbox 607 2213 825 2310; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 607 2213 825 2310; x_wconf 89' lang='lat' dir='ltr'><strong>D·D·D·</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 427 2379 1102 2695">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 427 2379 1102 2695">
+     <span class='ocr_line' id='line_1_4' title="bbox 427 2379 1102 2522; baseline 0.003 -2"><span class='ocrx_word' id='word_1_8' title='bbox 427 2437 748 2522; x_wconf 71' lang='lat' dir='ltr'>leLssLMvs</span> <span class='ocrx_word' id='word_1_9' title='bbox 780 2437 1006 2522; x_wconf 75' lang='lat' dir='ltr'><strong>HARTEL</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1098 2379 1102 2384; x_wconf 55' lang='grc'><strong>’</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 543 2627 895 2695; baseline -0.006 -2"><span class='ocrx_word' id='word_1_11' title='bbox 543 2627 895 2695; x_wconf 74' lang='lat' dir='ltr'><strong>VENERABVNDVS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1472 4934">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1472 4934">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1472 4934; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1472 4934; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
